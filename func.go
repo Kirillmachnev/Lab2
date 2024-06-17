@@ -10,3 +10,6 @@ func GOOO() {
 func GOOO1() {
 	fmt.Println("GOOOOdOO1!")
 }
+func GOOO2() {
+	fmt.Println("GOOOOdOO2!")
+}
