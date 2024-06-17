@@ -49,7 +49,7 @@ func performOperation(op *Operation) error {
 func main() {
 
 	fmt.Println("hello world")
-
+	fmt.Println("Second fix")
 	if len(os.Args) < 4 {
 		fmt.Println("Usage: go run main.go <input_file> <output_file> <operation>")
 		return
