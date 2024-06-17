@@ -22,3 +22,6 @@ func Print5() {
 func Print11() {
 	fmt.Println("11")
 }
+func Print12() {
+	fmt.Println("12")
+}
