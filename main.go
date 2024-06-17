@@ -17,8 +17,8 @@ type Operation struct {
 	Array      []int
 }
 
-func Print5() {
-	fmt.Println("5")
+func Print6() {
+	fmt.Println("6")
 }
 func (o *Operation) SortArray() {
 	sort.Ints(o.Array)

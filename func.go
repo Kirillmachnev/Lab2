@@ -16,3 +16,6 @@ func GOOO2() {
 func GOOO3() {
 	fmt.Println("GOOOOdOO3!")
 }
+func GOOO7() {
+	fmt.Println("GOOOOdOO7!")
+}
