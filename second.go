@@ -10,3 +10,6 @@ func PrintOne() {
 func PrintTwo() {
 	fmt.Println("Twoo0")
 }
+func PrintThree() {
+	fmt.Println("three")
+}
