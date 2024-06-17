@@ -7,3 +7,6 @@ import (
 func PrintOne() {
 	fmt.Println("One")
 }
+func PrintTwo() {
+	fmt.Println("Twoo0")
+}
