@@ -74,7 +74,7 @@ func main() {
 		num, _ := strconv.Atoi(numStr)
 		array = append(array, num)
 	}
-
+	fmt.Println("third fix")
 	op := &Operation{
 		InputPath:  inputPath,
 		OutputPath: outputPath,
