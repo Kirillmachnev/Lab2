@@ -16,3 +16,6 @@ func PrintThree() {
 func Print4() {
 	fmt.Println("4")
 }
+func Print5() {
+	fmt.Println("5")
+}
